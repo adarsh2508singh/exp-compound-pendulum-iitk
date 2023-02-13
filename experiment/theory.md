@@ -38,4 +38,4 @@ And length of an equivalent simple pendulum is<br><br>
 
 The bar pendulum consists of a metallic bar of about one meter long. A series of circular holes each of approximately 5 mm in diameter are made along the length of the bar. The bar is suspended from a horizontal knife-edge passing through any of the holes.The knife-edge, in turn, is fixed in a platform provided with the screws. By adjusting the rear screw, the platform can be made horizontal.
 
-<img src="images/gra_ph.png" width="100" hight="200">
+<img src="images/gra_ph.png" width="350" hight="350">
