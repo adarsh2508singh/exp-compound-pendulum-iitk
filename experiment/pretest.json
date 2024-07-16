@@ -34,6 +34,22 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },    {
+      "question": "3. In a compound pendulum, the point at which the entire mass of the pendulum can be considered to be concentrated is called the:",
+      "answers": {
+        "a": "Center of gravity",
+        "b": "Pivot point",
+        "c": "Center of oscillation",
+        "d": "Equilibrium position"
+      },
+      "explanations": {
+        "a": "This is incorrect. The center of gravity is the point where the weight of the body acts, but it is not specifically the point where the mass is considered to be concentrated for oscillation.",
+        "b": "This is incorrect. The pivot point is where the pendulum is attached and allowed to swing, not where the mass is concentrated.",
+        "c": "This is correct. In a compound pendulum, the center of oscillation is the point where the entire mass of the pendulum can be considered to be concentrated. <a href='www.google.com'>here</a>",
+        "d": "This is incorrect. The equilibrium position is where the pendulum rests when not in motion, not the point of concentrated mass for oscillation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
     }
   ]
 }
