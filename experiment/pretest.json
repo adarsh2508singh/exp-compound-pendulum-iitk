@@ -10,10 +10,10 @@
         "d": "T/2"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is correct. In one full period T, the particle moves from the equilibrium position to the maximum amplitude, back to the equilibrium, to the opposite maximum amplitude, and then back to the equilibrium. Hence, it takes T/4 to move from the equilibrium position to the maximum amplitude, which is half the amplitude. <a href='www.google.com'>here</a>",
+        "b": "This is incorrect. The correct time taken is T/4.",
+        "c": "This is incorrect. The correct time taken is T/4.",
+        "d": "This is incorrect. The correct time taken is T/4."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Momentum is conserved in the absence of an external force"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is correct. 1 kg wt is the weight of 1 kilogram mass under the acceleration due to gravity, which equals 9.8 N.",
+        "b": "This is correct. Momentum is a vector quantity because it has both magnitude and direction.",
+        "c": "This is incorrect. Force is not always conserved; it can change based on interactions with other forces.",
+        "d": "This is correct. Momentum is conserved in the absence of an external force, according to the law of conservation of momentum."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
