@@ -2,31 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Which of the following shape of the body can be considered as compound pendulum?",
+      "question": "1. Which type of pendulum is considered a more realistic representation of pendulum motion?",
       "answers": {
-        "a": "Cylindrical",
-        "b": "Cubical",
-        "c": "Cuboidal",
-        "d": "Any rigid body"
+        "a": "Double pendulum",
+        "b": "Compound pendulum",
+        "c": "Kater's pendulum",
+        "d": "Simple pendulum"
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "Explanation 2",
+        "b": " A compound pendulum, with its distributed mass along a rigid body, provides a more realistic representation of pendulum motion compared to a simple pendulum.",
         "c": "Explanation 2",
         "d": "Explanation 1  <a href='www.google.com'>here</a>"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2. Compound pendulum needs to be spherical in shape?",
+      "question": "2. What determines the time period of a compound pendulum?",
       "answers": {
-        "a": "True",
-        "b": "False"
+        "a": "Only the mass of the pendulum",
+        "b": "Only the length of the pendulum",
+        "c": "The moment of inertia, mass, gravitational acceleration, and distance between the centre of mass and the pivot",
+"d":"The gravitational acceleration and distance between the centre of mass and the pivot"
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "Explanation 1 <a href='www.google.com'>here</a>"
+        "b": "Explanation 1 <a href='www.google.com'>here</a>", 
+        "c" : "The time period of a compound pendulum is determined by factors such as its moment of inertia, mass, gravitational acceleration, and the distance between the centre of mass and the pivot.",
+        "d": "c option is correct "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -38,8 +42,8 @@
         "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2"
+        "a": "A simple pendulum consists of a mass (called the bob) attached to a string or rod of negligible mass, swinging about a pivot point. In the case of a compound pendulum, which is a more general term, any rigid body swinging about a fixed horizontal axis can be considered. Since a simple pendulum meets these criteria (it can be thought of as a compound pendulum with a very simple, uniform mass distribution), the statement is true.",
+        "b": "This explanation is incorrect because a simple pendulum can be viewed as a specific instance of a compound pendulum with a mass concentrated at a single point and a massless string or rod. Therefore, the statement that all simple pendulums are compound pendulums is true."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
