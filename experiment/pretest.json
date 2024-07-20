@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. 1.	The period of oscillation is T the minimum time taken by the particle to travel half of the amplitude from the equilibrium position is?",
+      "question": "1. The period of oscillation is T the minimum time taken by the particle to travel half of the amplitude from the equilibrium position is?",
       "answers": {
         "a": "T/4",
         "b": "T/8",
@@ -49,6 +49,22 @@
         "d": "This is incorrect. The equilibrium position is where the pendulum rests when not in motion, not the point of concentrated mass for oscillation."
       },
       "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },{
+      "question": "4. What feature characterizes the design of a bar pendulum?",
+      "answers": {
+        "a": "A flexible string attached to a small mass",
+        "b": "Circular holes along the length of the bar for adjustments in the pivot point",
+        "c": " A large spherical mass attached to a thin rod",
+        "d": " A rigid metallic bar suspended from a vertical axis"
+      },
+      "explanations": {
+        "a": "This is incorrect. ",
+        "b": "This is correct. A bar pendulum typically features circular holes along its length, allowing for adjustments in the pivot point to achieve precise experimental setups",
+        "c": "This is incorrect. ",
+        "d": "This is incorrect."
+      },
+      "correctAnswer": "b",
       "difficulty": "intermediate"
     }
   ]
